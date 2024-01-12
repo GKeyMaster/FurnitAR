@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FurnitAR</string>
+    <string name="Description">Buy all variants of Furnitures online- with an Augmented Reality ; AR View of it in your place.</string>
+    <string name="title_activity_cart_try">cart_try</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bitch Lasagna</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigation">Navigate</string>
+    <string name="products">Products</string>
+    <string name="show_cart">Show Cart</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- Strings for On Boarding Screen -->
+    <string name="first_slide_title">Reshaping E-Commerce</string>
+    <string name="second_slide_title">How it works?</string>
+    <string name="third_slide_title">Is it viable?</string>
+    <string name="fourth_slide_title">Let\'s shop in realtime!</string>
+
+    <string name="first_slide_desc">Introducing AR-Commerce. Buy products online but test like the showroom is in your room. </string>
+    <string name="second_slide_desc">All the furniture items listed here can be viewed using Augmented Reality. Relocate, resize the furniture in your room to see if it matches the decorum.</string>
+    <string name="third_slide_desc">The colors, shape and size of augmented product is displayed perfectly and can be modified according to the needs.</string>
+    <string name="fourth_slide_desc">Let\'s head over to te app and see the action in realtime. </string>
+
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Explore</string>
+</resources>
